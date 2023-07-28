@@ -1,0 +1,64 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "kopiold": [
+        {
+            "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYm44ugoi3eS_6xcrU37w7Vo34aXrEs7NVWg&usqp=CAU",
+            "nama": "Kopi Lampung",
+            "size": "100ml",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRItY5Wz02pPO9TocOMRV8XTJ_FDvXR1-txSw&usqp=CAU",
+          "nama": "Kopi Klotok",
+          "size": "100ml",
+          "harga": "10.000",
+          "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+          "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5pNtcIRIkAneNrPmiPK_nlgjWQCoLGtF0w&usqp=CAU",
+          "nama": "Kopi Ireng",
+          "size": "100ml",
+          "harga": "15.000",
+          "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        }
+    ]
+}
